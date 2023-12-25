@@ -1137,6 +1137,10 @@ a {
   text-transform: uppercase;
   font-size: 11px;
   letter-spacing: .1em; }
+  .logo-image {
+    max-width: 40%;
+  }
+  
   .btn-outline-white:hover {
     background: #fff;
     color: #000; }
